@@ -1,5 +1,5 @@
 /**
- * Definition for singly-linked list.
+ * Definition for singly-linked list from leetcode-cn
  */
 class ListNode {
     int val;
